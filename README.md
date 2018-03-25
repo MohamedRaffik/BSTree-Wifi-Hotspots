@@ -5,7 +5,8 @@ This command-line program parses Wifi Data of New York City and implements a Bin
 # Running Program
 
 Ex: ./project4 [CSV FILE] [COMMAND FILE]
-The program takes two command line arguments, the first being the hotspot data set and then a command file populated with valid commands as stated in the command.h file.
+
+The program takes two command line arguments, the first being the hotspot data set and then a command file populated with valid commands as stated below or in the command.h file.
 
 # Commands:
 
