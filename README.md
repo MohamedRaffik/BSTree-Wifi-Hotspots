@@ -2,6 +2,8 @@
 
 This command-line program parses Wifi Data of New York City and implements a Binary Search Tree data structure to perform certain actions to the data set.
 
+Hotspot Wifi Data can be found at https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw
+
 # Running Program
 
 Ex: ./project4 [CSV FILE] [COMMAND FILE]
