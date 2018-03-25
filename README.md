@@ -10,7 +10,7 @@ In the use of the program the data was modified to remove certain columns from t
 
 Ex: ./project4 [CSV FILE] [COMMAND FILE]
 
-The program takes two command line arguments, the first being the hotspot data set and then a command file populated with valid commands as stated below or in the command.h file.
+The program takes two command line arguments, the first being the hotspot data set and then a command file populated with valid commands as stated below or in the command.h file. Hotspot data should be presented with a csv format and the command file should have commands stated one line after the other
 
 # Commands:
 
