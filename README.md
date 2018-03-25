@@ -4,7 +4,7 @@ This command-line program parses Wifi Data of New York City and implements a Bin
 
 Hotspot Wifi Data can be found at https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw
 
-In the use of the program the data was modified to remove certain columns from the data set found at the link above. The columns from the data set that were used are OBJECTID, Borough, Type, Provide, Name, Location, Latitude, Longitude, and SSID in that order. Examples of a valid line can be found [here](hotspots.csv)
+In the use of the program the data was modified to remove certain columns from the data set found at the link above. The columns from the data set that were used are OBJECTID, Borough, Type, Provide, Name, Location, Latitude, Longitude, and SSID in that order. Examples of a valid line can be found [here](BSTree-Wifi-Hotspots/Data/hotspots.csv)
 
 # Running Program
 
