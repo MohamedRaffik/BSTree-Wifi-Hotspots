@@ -17,7 +17,7 @@ The program takes two command line arguments, the first being the hotspot data s
 write [FILE] 
 - Outputs the current state of the Binary Search Tree in the program to the file designated
 
-insert[FILE] 
+insert [FILE] 
 - Inserts data of Wifi Hotspots from the specified file, data must be presented in correct format
 
 delete_by_id [FILE] 
